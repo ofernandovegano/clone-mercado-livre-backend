@@ -20,7 +20,7 @@ https://melimeli.herokuapp.com/
 
 
 ## 🔧 Detalhes técnicos
-<p>  Os resultados das buscas são fruto da API oficial do Mercado Livre e são filtrados no Backend e transmitidos por meio de uma outra api para o frontend. O projeto foi separado em dois apps:
+<p>  Os resultados das buscas são fruto da API oficial do Mercado Livre e são filtrados no Backend e transmitidos por meio de uma outra api para o frontend. O backend está hospedado no Heroku e portanto pode ser que a primeira busca realizada no app demore um pouco mais do que as outras. Além disso, o projeto foi separado em dois apps:
   
 </br>
 
